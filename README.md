@@ -89,14 +89,14 @@
 
 <h2>🚀 Как запустить</h2>
 <pre>
-<code>1. myblockchain
+<code>
+1. myblockchain
 bash
 go run main.go
 
 2. minersforblockchain
 bash
 cd firstminer
-
 go run main.go
 </code>
 </pre>
