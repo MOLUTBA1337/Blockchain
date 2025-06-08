@@ -91,12 +91,12 @@
 <pre>
 <code>1. myblockchain
 bash
-cd myblockchain
 go run main.go
 
 2. minersforblockchain
 bash
-cd minersforblockchain
+cd firstminer
+
 go run main.go
 </code>
 </pre>
